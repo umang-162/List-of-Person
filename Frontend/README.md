@@ -13,5 +13,5 @@ If you are developing a production application, we recommend using TypeScript an
 
 
 ## For execute run command
-npm install 
+npm install <br/>
 npm run dev
